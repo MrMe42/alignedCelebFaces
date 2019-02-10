@@ -1,3 +1,1 @@
-#!/usr/bin/env bash
-
-python3 code/anyFaceAligner.py && python3 code/anyFaceEncoder.py
+python3.6 code/anyFaceAligner.py && python3.6 code/anyFaceEncoder.py
